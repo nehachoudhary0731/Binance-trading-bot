@@ -17,10 +17,12 @@ requests, logging, dotenv (optional for API key management)
 Install dependencies:
 pip install python-binance requests python-dotenv
 
-# Important: The logs may show "APIError(code=-2015): Invalid API-key, IP, or permissions for action" 
+# Important: 
+The logs may show "APIError(code=-2015): Invalid API-key, IP, or permissions for action" 
 because I could not generate Binance Testnet API credentials (PAN card verification required).  
 However, the bot is fully functional, and once valid API keys are provided, it can execute 
 trades on Binance Futures Testnet.
+
 
 
 
