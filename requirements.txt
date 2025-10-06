@@ -1,0 +1,6 @@
+python-binance
+requests
+python-dotenv
+tabulate
+colorama
+pydantic
